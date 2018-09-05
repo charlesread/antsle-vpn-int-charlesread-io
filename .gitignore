@@ -1,2 +1,2 @@
-.DS_Store
-src/vpn.env
+**/.DS_Store
+**/*.env
